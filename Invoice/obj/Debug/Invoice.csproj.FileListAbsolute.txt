@@ -1,0 +1,9 @@
+C:\Users\Subeh\source\repos\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Subeh\source\repos\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Subeh\source\repos\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Subeh\source\repos\Invoice\Invoice\obj\Debug\Invoice.csprojAssemblyReference.cache
+C:\Users\Subeh\source\repos\Invoice\Invoice\obj\Debug\Invoice.Invoice.resources
+C:\Users\Subeh\source\repos\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Subeh\source\repos\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+C:\Users\Subeh\source\repos\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\Subeh\source\repos\Invoice\Invoice\obj\Debug\Invoice.pdb
